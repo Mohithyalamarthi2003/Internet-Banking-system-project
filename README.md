@@ -1,2 +1,2 @@
 # Internet-Banking-system-project
-The project is about the Internet banking system, It developed using Java Programming language 
+This project is an Internet Banking Application developed using Java and Spring Boot. It provides features such as secure user authentication, account management, fund transfers, and transaction history, all backed by a robust database integration. The application is designed to demonstrate modern banking operations in a simplified way, making it easy to understand and extend for further development.
